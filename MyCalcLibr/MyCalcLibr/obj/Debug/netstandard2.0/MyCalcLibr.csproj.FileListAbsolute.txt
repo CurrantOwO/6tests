@@ -1,0 +1,9 @@
+C:\Users\Виктория\Desktop\палыч\тестирование\MyCalcLibr\MyCalcLibr\bin\Debug\netstandard2.0\MyCalcLibr.deps.json
+C:\Users\Виктория\Desktop\палыч\тестирование\MyCalcLibr\MyCalcLibr\bin\Debug\netstandard2.0\MyCalcLibr.dll
+C:\Users\Виктория\Desktop\палыч\тестирование\MyCalcLibr\MyCalcLibr\bin\Debug\netstandard2.0\MyCalcLibr.pdb
+C:\Users\Виктория\Desktop\палыч\тестирование\MyCalcLibr\MyCalcLibr\obj\Debug\netstandard2.0\MyCalcLibr.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\палыч\тестирование\MyCalcLibr\MyCalcLibr\obj\Debug\netstandard2.0\MyCalcLibr.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\палыч\тестирование\MyCalcLibr\MyCalcLibr\obj\Debug\netstandard2.0\MyCalcLibr.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\палыч\тестирование\MyCalcLibr\MyCalcLibr\obj\Debug\netstandard2.0\MyCalcLibr.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\палыч\тестирование\MyCalcLibr\MyCalcLibr\obj\Debug\netstandard2.0\MyCalcLibr.dll
+C:\Users\Виктория\Desktop\палыч\тестирование\MyCalcLibr\MyCalcLibr\obj\Debug\netstandard2.0\MyCalcLibr.pdb
